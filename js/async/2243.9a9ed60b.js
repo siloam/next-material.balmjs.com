@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbalm_ui=self.webpackChunkbalm_ui||[]).push([[2243],{92243:function(e,n,u){u.r(n),u.d(n,{default:function(){return l}});var r=u(73114);var t={render:function(e,n,u,t,l,a){return(0,r.openBlock)(),(0,r.createElementBlock)("div",null,"MainTest")}},l=t}}]);
